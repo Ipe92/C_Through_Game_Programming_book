@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="chapter6_referencing.cpp">
+    <ClCompile Include="chapter6_const_reference.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
